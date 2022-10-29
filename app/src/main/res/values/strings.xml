@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Đại học Tôn Đức Thắng</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="button_login">Login</string>
+    <string name="button_register">register</string>
+    <string name="error_username">You need to use your student email address</string>
+    <string name="error_password">Password must contain at least 8 characters.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fab_content_desc">floating action bottom</string>
+</resources>
